@@ -13,9 +13,9 @@ void display(vector<int> &v)
 int main()
 {
       vector<int> vec1;
-      // vec1.push_back(12);
-      // vec1.push_back(11);
-      // vec1.push_back(122);
+      vec1.push_back(12);
+      vec1.push_back(11);
+      vec1.push_back(122);
       int size,element;
       cout<<"size: ";
       cin>>size;
